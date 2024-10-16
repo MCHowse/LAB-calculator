@@ -1,0 +1,41 @@
+body{
+  background:black;
+  color:white;
+  display:inline-block;
+  padding:1px 5px;
+  #000000
+  width: 400px;
+  
+}
+
+input {
+  width: 100%;
+  text-align: right;
+}
+.calculator{
+  font-family: monospace;
+  background: white;
+  width: 24.5%;
+  justify-content: space-between;
+  margin-top: .5%;
+  margin-bottom: .5%;
+}
+.buttons1{
+  margin-top: .5%;
+}
+
+.buttons2{
+  margin-top: .5%;
+}
+
+.buttons3{
+  margin-top: .5%;
+}
+
+.buttons4{
+  margin-top: .5%;  
+}
+
+.zerobtn{
+  margin-top: .5%;
+}
